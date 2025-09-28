@@ -1,0 +1,48 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+header{
+    background-image: url("https://cdn.vectorstock.com/i/500p/06/68/vpn-concept-vector-27470668.jpg");
+    background-size: cover;
+    /* width: 100%; */
+    text-align: center;
+    height: 220px;
+}
+ button{
+    height: 40px;
+    border-radius: 25%;
+    background-color: green;
+    text-align: center;
+    border: 2px solid black;
+   
+    /* width: 120px; */
+
+ }
+
+ .container{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .img{
+    margin-top: 20px;
+    height: 40px;
+    width: 80px;
+
+ }
+ .para{
+    margin-top: 10px;
+    height:70px ;
+    width: 100px;
+    margin-left: 10px;
+ }
+ footer{
+    margin-top: 15%;
+    background-image: url("https://png.pngtree.com/background/20211215/original/pngtree-dark-5g-technology-background-picture-image_1463834.jpg");
+    background-size: cover;
+    height: 130px;
+ }
